@@ -1,0 +1,107 @@
+
+#one {
+    position: absolute;
+    width: 122px;
+    height: 37px;
+    left: 178px;
+    top: 280px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    
+    color: #A18E8E;
+    
+    border: 1px solid #000000;
+}
+.border-1 {
+    position: absolute;
+    width: 56px;
+    height: 0px;
+    left: 300px;
+    top: 325px;
+    
+    border: 3px solid #A18E8E;
+}
+#two {
+    position: absolute;
+    width: 101px;
+    height: 34px;
+    left: 369px;
+    top: 280px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: flex-end;
+    
+    color: #A18E8E;
+    
+    border: 1px solid #000000;
+}
+#three {
+    position: absolute;
+width: 625px;
+height: 146px;
+left: 176px;
+top: 383px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 81px;
+
+color: #FFFFFF;
+}
+.hero-l img {
+    position: absolute;
+    width: 160px;
+    height: 24px;
+    left: 178px;
+    top: 600px;
+}
+.hero-l button {
+    position: absolute;
+    width: 182px;
+    height: 65px;
+    left: 178px;
+    top: 750px;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 29px;
+    
+    background: #1BE861;
+    border-radius: 36px;
+}
+#img-1 {
+    position: absolute;
+    width: 481px;
+    height: 519px;
+    left: 923px;
+    top: 250px;
+}
+#img-2 {
+position: absolute;
+width: 58px;
+height: 53px;
+left: 723px;
+top: 650px;
+
+}
+#img-3 {
+    position: absolute;
+    width: 58px;
+    height: 53px;
+    left: 794px;
+    top: 300px;
+}

@@ -1,0 +1,84 @@
+.Nav-l img{
+    position: absolute;
+    width: 420px;
+    height: 344px;
+    left: -50px;
+    top: 39px;
+}
+.Nav-l p {
+    position: absolute;
+    width: 167px;
+    height: 37px;
+    left: 176px;
+    top: 60px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+.Nav-c ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    
+}
+.Nav-c li {
+display: inline-block; 
+color: #FFFFFF;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 29px;
+}
+.Nav-c {
+position: absolute;
+width: 375px;
+height: 39px;
+left: 477px;
+top: 83px;
+
+}
+.Nav-c li:hover{
+color: #a6a7a7;
+}
+.Nav-r p {
+    position: absolute;
+width: 100px;
+height: 37px;
+left: 1023px;
+top: 60px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.Nav-r p:hover {
+    color: #a6a7a7;
+}
+.Nav-r button {
+ position: absolute;
+width: 157px;
+height: 65px;
+left: 1181px;
+top: 69px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 29px;
+cursor: pointer;
+
+color: #121212;
+
+background: #C88AEE;
+border-radius: 36px;
+}
